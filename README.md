@@ -1,7 +1,5 @@
 # 🕸️ Selenium WebDriver Automation with Python
 
-![GitHub repo size](https://img.shields.io/github/repo-size/your-username/selenium-marvel-e2e?color=blue)
-![GitHub last commit](https://img.shields.io/github/last-commit/your-username/selenium-marvel-e2e?color=green)
 ![Python](https://img.shields.io/badge/Python-3.x-yellow)
 ![Selenium](https://img.shields.io/badge/Selenium-WebDriver-orange)
 
@@ -11,5 +9,53 @@ It demonstrates **automation testing fundamentals**: element locators, waits, al
 
 ---
 
-## 📂 Project Structure
+
+---
+
+## 📝 Practice Scripts & Purpose
+
+| Script Name                          | Purpose                                                                 |
+|--------------------------------------|-------------------------------------------------------------------------|
+| `test_alertpopup.py`                 | Handle JavaScript alerts and popups                                     |
+| `test_capture_screenshot.py`         | Capture screenshots for debugging & reporting                           |
+| `test_check_if_enabled.py`           | Validate whether fields/buttons are enabled                             |
+| `test_checkbox_handle.py`            | Select/deselect checkboxes                                              |
+| `test_ctrlA_keydown_keyup.py`        | Keyboard actions like Ctrl+A, Enter, etc.                               |
+| `test_dragdrop.py`                   | Drag-and-drop automation                                                |
+| `test_dropdown.py`                   | Select dropdown options                                                 |
+| `test_get_element_text.py`           | Extract inner text for validation                                       |
+| `test_get_element_attribute_value.py`| Extract element attributes (id, class, href, etc.)                      |
+| `test_hover.py`                      | Mouse hover action                                                      |
+| `test_hover_click.py`                | Hover and click                                                         |
+| `test_hover_doubleclick.py`          | Double-click action                                                     |
+| `test_hover_right_click.py`          | Right-click context menu                                                |
+| `test_multiplewindows.py`            | Switch between multiple browser windows/tabs                            |
+| `test_navigation.py`                 | Navigate back/forward/refresh between pages                             |
+| `test_radio_button.py`               | Select radio buttons                                                    |
+| `test_text_and_linktext.py`          | Locate elements by text or link text                                    |
+
+---
+
+## 🎬 Marvel Website End-to-End Automation
+
+- ✅ Navigate through menus  
+- ✅ Hover & interact with elements  
+- ✅ Handle multiple pages & popups  
+- ✅ Capture screenshots at each stage  
+- ✅ Simulate a real user flow  
+
+This project is located in the **`End to End Testing/`** folder.
+
+---
+
+## 🛠 Tech Stack
+
+- **Python 3.x**  
+- **Selenium WebDriver**  
+- **PyCharm IDE**  
+- **ChromeDriver** (latest stable)  
+
+---
+
+
 
