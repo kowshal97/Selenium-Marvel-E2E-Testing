@@ -16,7 +16,7 @@ It demonstrates **automation testing fundamentals**: element locators, waits, al
 
 | Script Name                          | Purpose                                                                 |
 |--------------------------------------|-------------------------------------------------------------------------|
-| `test_alertpopup.py`                 | Handle JavaScript alerts and popups                                     |
+| `test_alertpopup.py`                 | Handle alerts and popups                                                |
 | `test_capture_screenshot.py`         | Capture screenshots for debugging & reporting                           |
 | `test_check_if_enabled.py`           | Validate whether fields/buttons are enabled                             |
 | `test_checkbox_handle.py`            | Select/deselect checkboxes                                              |
