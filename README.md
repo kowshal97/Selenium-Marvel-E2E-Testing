@@ -57,5 +57,15 @@ This project is located in the **`End to End Testing/`** folder.
 
 ---
 
+## 🎥 Demo Video
+
+Click here to watch the demo(p)
+
+## 📌 Learning Outcome
+
+- Strengthened knowledge of locators, waits, actions, navigation, and validations.
+- Learned to handle real-world automation challenges like multiple windows, alerts, and mouse/keyboard events.
+- Built confidence to design scalable test automation frameworks.
+
 
 
